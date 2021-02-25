@@ -94,14 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "
-Developer
-𐤇𐤍𐤁𐤏𐤋𐤟𐤁𐤓𐤒	
-Hannibal Barca
-"
+  name             : "Developer - Hannibal Barca"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "-Aut inveniam viam aut faciam.-"
-  location         : "South Korea"
+  location         : "Seoul, South Korea"
   email            : "booleanxx@kakao.com"
   links:
     - label: "Email"
