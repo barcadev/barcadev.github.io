@@ -145,7 +145,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "GitHub"
-      icon: "tab fa-fw fa-github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/barcadev"
 
 # Reading Files
