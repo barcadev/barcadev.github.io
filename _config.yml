@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Barcadev 기술 블로그"
+title                    : "Talk is cheap. Show me the code."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Talk is cheap. Show me the code."
@@ -95,8 +95,8 @@ analytics:
 # Site Author
 author:
   name             : "Barca"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aut inveniam viam aut faciam"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "업무상 의무적으로 만들어야 하는 프로그램은 아닌데, 자신의 업무를 보조하기 위해 만들어 쓰는 프로그램으로 어떤 것이 있습니까?"
   location         : "South Korea"
   email            :
   links:
