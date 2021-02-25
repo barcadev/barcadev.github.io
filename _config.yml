@@ -76,7 +76,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/bio-photo.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -94,11 +94,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "𐤇𐤍𐤁𐤏𐤋𐤟𐤁𐤓𐤒. Hannibal Barca"
+  name             : "
+Developer
+𐤇𐤍𐤁𐤏𐤋𐤟𐤁𐤓𐤒	
+Hannibal Barca
+"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Aut inveniam viam aut faciam."
+  bio              : "-Aut inveniam viam aut faciam.-"
   location         : "South Korea"
-  email            :
+  email            : "booleanxx@kakao.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -140,7 +144,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    - label: "GitHub"
+      icon: "tab fa-fw fa-github"
+      url: "https://github.com/barcadev"
 
 # Reading Files
 include:
