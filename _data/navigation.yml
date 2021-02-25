@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "블로그 방문하기"
-    url: https://barcadev.github.io/
   - title: "About"
-    url: {{site.baseurl}}/about
+    sublinks:
+        - title: About this
+          url: {{site.baseurl}}/about
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
