@@ -4,6 +4,8 @@ main:
     url: https://barcadev.github.io/
   - title: "윤동주"
     url: /categories/윤동주/
+  - title: "For Hannibal"
+    url: /categories/hannibal/
   - title: "About"
     url: /about/
 
