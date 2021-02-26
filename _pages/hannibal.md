@@ -6,8 +6,8 @@ author_profile: true
 taxonomy: hannibal
 ---
 
-![ex_screenshot]({{site.baseurl}}/assets/main2.jpg)
+![ex_screenshot]({{site.baseurl}}/assets/images/main2.jpg)
 
-> 불굴의 의지 앞에서는 높은 산도 몸을 낮춘다.
-> Hannibal Barca
+> 불굴의 의지 앞에서는 높은 산도 몸을 낮춘다.  
+> -Hannibal Barca-
 
