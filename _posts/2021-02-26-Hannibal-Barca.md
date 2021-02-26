@@ -3,7 +3,7 @@ title:  "한니발 바르카 - 그는 누구인가?"
 excerpt: "한니발은 누구인가?"
 
 categories:
-  - 한니발
+  - hannibal
 tags:
   - 명장
   - 한니발 바르카
@@ -12,6 +12,8 @@ tags:
   - 로마
 last_modified_at: 2021-02-26T13:11:00-05:00
 ---
+![ex_screenshot]({{site.baseurl}}/assets/images/war.jpg)
+
 𐤇𐤍𐤁𐤏𐤋𐤟𐤁𐤓𐤒
 Hannibal Barca
 
